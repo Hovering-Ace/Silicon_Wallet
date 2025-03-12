@@ -1,0 +1,10 @@
+@media screen and (max-width : 600px){
+    .nav-menu .logo img{
+        width: 60px;
+        margin-top: 10px;
+    }
+    .nav-menu .logo h1{
+        font-size: 25px;
+        margin-top: 10px;
+    }
+}
