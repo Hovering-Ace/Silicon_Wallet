@@ -53,9 +53,6 @@ Before running Silicon Wallet, make sure you have the following installed:
 
 Check if Node.js is installed:
 
-```bash
-node -v
-
 
 current status of frontend
 ![image](https://github.com/user-attachments/assets/3ee66d80-91ad-4954-9b72-0d948cf60b4b)
